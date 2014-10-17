@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wer:home|Door43 (wer)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wer|d43-wer repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wer/archive/master.zip|d43-wer.zip]]
+
+**Recent Changes**
+{{changes>ns = wer}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wer|Ethnologue data]]
+
